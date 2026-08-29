@@ -14,6 +14,7 @@ Juga mengerjakan perancangan sistem dan eksplorasi AI/ML (Fuzzy Logic, Random Fo
 📫 auliadva50@gmail.com · 🔗 [LinkedIn](https://linkedin.com/in/auliadivasukmadevi)
 
 <img src="https://capsule-render.vercel.app/api?type=rect&color=0:ffafbd,100:ffc3a0&height=3&width=100%"/>
+
 ### Tech Stack
 
 <p align="left">
@@ -47,6 +48,7 @@ Juga mengerjakan perancangan sistem dan eksplorasi AI/ML (Fuzzy Logic, Random Fo
 <img src="https://img.shields.io/badge/ESLint-4B32C3?style=for-the-badge&logo=eslint&logoColor=white"/>
 <img src="https://img.shields.io/badge/Figma-F24E1E?style=for-the-badge&logo=figma&logoColor=white"/>
 </p>
+
 <img src="https://capsule-render.vercel.app/api?type=rect&color=0:ffafbd,100:ffc3a0&height=3&width=100%"/>
 
 <picture>
